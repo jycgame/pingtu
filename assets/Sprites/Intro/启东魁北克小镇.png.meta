@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f12569a6-e8c6-4dae-acdc-29f2dfa1e0ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "启东魁北克小镇": {
+      "ver": "1.0.3",
+      "uuid": "21e30fc4-caf7-4e41-94f5-143372c95115",
+      "rawTextureUuid": "f12569a6-e8c6-4dae-acdc-29f2dfa1e0ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 156,
+      "trimX": 68,
+      "trimY": 130,
+      "width": 807,
+      "height": 410,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

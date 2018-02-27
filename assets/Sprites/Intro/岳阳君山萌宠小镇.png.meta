@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ca357e84-6c41-4711-bbe9-078e325da554",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "岳阳君山萌宠小镇": {
+      "ver": "1.0.3",
+      "uuid": "9f6499a1-ae1e-4aa8-88dc-8d0727028e6e",
+      "rawTextureUuid": "ca357e84-6c41-4711-bbe9-078e325da554",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 208,
+      "trimX": 96,
+      "trimY": 114,
+      "width": 757,
+      "height": 338,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

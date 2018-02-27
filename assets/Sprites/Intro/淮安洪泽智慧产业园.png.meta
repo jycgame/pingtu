@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c48793ce-584a-4e9a-ac2d-8a46a38ff3cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "淮安洪泽智慧产业园": {
+      "ver": "1.0.3",
+      "uuid": "3ec5a6a1-e43b-4f2e-b0d2-9097e3702bf3",
+      "rawTextureUuid": "c48793ce-584a-4e9a-ac2d-8a46a38ff3cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 228.5,
+      "trimX": 68,
+      "trimY": 130,
+      "width": 807,
+      "height": 265,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

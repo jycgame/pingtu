@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "05add32b-9e0b-40fa-a4ed-1ca13e1494a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "盱眙龙虾小镇": {
+      "ver": "1.0.3",
+      "uuid": "3abc4919-3a32-4c44-8efc-c2cfd26e211f",
+      "rawTextureUuid": "05add32b-9e0b-40fa-a4ed-1ca13e1494a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 228.5,
+      "trimX": 68,
+      "trimY": 130,
+      "width": 807,
+      "height": 265,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "408a078f-ba21-4ce7-98e6-4138c9ae12d6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "无锡人鱼小镇": {
+      "ver": "1.0.3",
+      "uuid": "4b006d78-347e-49d2-9423-49bf14e86ffd",
+      "rawTextureUuid": "408a078f-ba21-4ce7-98e6-4138c9ae12d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -23,
+      "offsetY": 155.5,
+      "trimX": 68,
+      "trimY": 131,
+      "width": 758,
+      "height": 409,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

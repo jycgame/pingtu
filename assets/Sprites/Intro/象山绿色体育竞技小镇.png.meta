@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2da9a31c-1c64-450e-bd9a-36b70f03434e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "象山绿色体育竞技小镇": {
+      "ver": "1.0.3",
+      "uuid": "3040fe6a-646f-40a5-90e1-75d6908eb13d",
+      "rawTextureUuid": "2da9a31c-1c64-450e-bd9a-36b70f03434e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 120,
+      "trimX": 68,
+      "trimY": 130,
+      "width": 807,
+      "height": 482,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

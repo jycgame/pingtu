@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "05b2ce15-a014-47cf-aa5b-1a2c79e4020f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "安顺大西桥生态小镇": {
+      "ver": "1.0.3",
+      "uuid": "c699587f-5427-4966-940f-0f2e3e7cd26f",
+      "rawTextureUuid": "05b2ce15-a014-47cf-aa5b-1a2c79e4020f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 10.5,
+      "offsetY": 128,
+      "trimX": 68,
+      "trimY": 122,
+      "width": 825,
+      "height": 482,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

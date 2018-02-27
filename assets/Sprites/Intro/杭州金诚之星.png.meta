@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bca9d588-f430-4df9-a215-357c2d8a93ff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "杭州金诚之星": {
+      "ver": "1.0.3",
+      "uuid": "e0e1db50-5856-482f-a0c1-de8b7e3a1bf1",
+      "rawTextureUuid": "bca9d588-f430-4df9-a215-357c2d8a93ff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 156,
+      "trimX": 94,
+      "trimY": 130,
+      "width": 756,
+      "height": 410,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

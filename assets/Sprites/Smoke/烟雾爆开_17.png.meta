@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1c6a9be0-db90-410d-895a-285bf90d1278",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "烟雾爆开_17": {
+      "ver": "1.0.3",
+      "uuid": "134a2e4b-377a-4392-b7b4-cd59e6f40629",
+      "rawTextureUuid": "1c6a9be0-db90-410d-895a-285bf90d1278",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -10,
+      "offsetY": -2,
+      "trimX": 20,
+      "trimY": 11,
+      "width": 190,
+      "height": 232,
+      "rawWidth": 250,
+      "rawHeight": 250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

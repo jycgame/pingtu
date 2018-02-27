@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ccf15559-e055-4fb6-b9d7-1e23077b179c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "三门舌尖小镇": {
+      "ver": "1.0.3",
+      "uuid": "3b810c4e-9d55-445c-934f-4c2c1604d8f3",
+      "rawTextureUuid": "ccf15559-e055-4fb6-b9d7-1e23077b179c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 14.5,
+      "offsetY": 50,
+      "trimX": 93,
+      "trimY": 128,
+      "width": 783,
+      "height": 626,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

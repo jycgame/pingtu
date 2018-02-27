@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c76ead67-3951-4757-a129-0425d2b2a49f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "济源市王屋山福源小镇": {
+      "ver": "1.0.3",
+      "uuid": "ff7e4988-d7a1-410d-a3e0-cdcae9a2701b",
+      "rawTextureUuid": "c76ead67-3951-4757-a129-0425d2b2a49f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 10,
+      "offsetY": 92,
+      "trimX": 68,
+      "trimY": 122,
+      "width": 824,
+      "height": 554,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

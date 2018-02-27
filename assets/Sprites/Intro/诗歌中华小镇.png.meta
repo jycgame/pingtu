@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f4788c51-dbca-4a9f-bb9d-31729957f634",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "诗歌中华小镇": {
+      "ver": "1.0.3",
+      "uuid": "1cab377c-f8b7-4ca6-a4e4-f2f922546932",
+      "rawTextureUuid": "f4788c51-dbca-4a9f-bb9d-31729957f634",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 192,
+      "trimX": 68,
+      "trimY": 130,
+      "width": 807,
+      "height": 338,
+      "rawWidth": 940,
+      "rawHeight": 982,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
